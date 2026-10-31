@@ -1,0 +1,19 @@
+# Local editor, Flutter, Android, and build artifacts
+**/.dart_tool/
+**/.gradle/
+**/.idea/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/build/
+**/coverage/
+**/ephemeral/
+**/local.properties
+**/*.iml
+**/*.log
+**/.env
+**/.env.*
+**/*.jks
+**/*.keystore
+**/key.properties
+Shoply_App/ios/Runner/GoogleService-Info.plist
+firebase-catalog.png

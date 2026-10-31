@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "id": "5H4G1NO0g25Ab3GAcfps",
+      "fields": {
+        "name": "accessories",
+        "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+        "id": "5H4G1NO0g25Ab3GAcfps"
+      }
+    },
+    {
+      "id": "R8KZ0dRwkYP8HATxysbU",
+      "fields": {
+        "id": "R8KZ0dRwkYP8HATxysbU",
+        "image": "https://cdn.dummyjson.com/product-images/womens-bags/women-handbag-black/thumbnail.webp",
+        "name": "bags"
+      }
+    },
+    {
+      "id": "bUZOepX28NVSf13xWi83",
+      "fields": {
+        "id": "bUZOepX28NVSf13xWi83",
+        "name": "clothes",
+        "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
+      }
+    },
+    {
+      "id": "swx3BggyZBAClV9IaXoi",
+      "fields": {
+        "name": "shoes",
+        "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+        "id": "swx3BggyZBAClV9IaXoi"
+      }
+    }
+  ],
+  "products": {
+    "5H4G1NO0g25Ab3GAcfps": [
+      {
+        "id": "MI3ICERL4i33d6KiJrI2",
+        "fields": {
+          "description": "Elegant wristwatch combining a brown leather strap with a clean, classic dial.",
+          "id": "MI3ICERL4i33d6KiJrI2",
+          "image": [
+            "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+            "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp"
+          ],
+          "isTrending": true,
+          "price": 89.99,
+          "name": "Brown Leather Belt Watch"
+        }
+      }
+    ],
+    "R8KZ0dRwkYP8HATxysbU": [
+      {
+        "id": "EDLuHzcIj0CD4RETaKYD",
+        "fields": {
+          "name": "White Faux Leather Backpack",
+          "id": "EDLuHzcIj0CD4RETaKYD",
+          "price": 39.99,
+          "description": "Stylish white backpack with a practical interior and a clean look for daily essentials.",
+          "image": [
+            "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/1.webp"
+          ],
+          "isTrending": true
+        }
+      }
+    ],
+    "bUZOepX28NVSf13xWi83": [
+      {
+        "id": "Rm92rhJe3wUWA69tnAAd",
+        "fields": {
+          "name": "Man Plaid Shirt",
+          "image": [
+            "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+            "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/2.webp"
+          ],
+          "price": 34.99,
+          "isTrending": false,
+          "id": "Rm92rhJe3wUWA69tnAAd",
+          "description": "Classic plaid shirt with a relaxed fit, easy to style for everyday and smart-casual outfits."
+        }
+      },
+      {
+        "id": "qaVeZXdjfSSVBMzp4mdH",
+        "fields": {
+          "isTrending": true,
+          "id": "qaVeZXdjfSSVBMzp4mdH",
+          "price": 19.99,
+          "image": [
+            "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/1.webp"
+          ],
+          "description": "Lightweight short-sleeve shirt offering a breathable, comfortable option for warm days.",
+          "name": "Man Short Sleeve Shirt"
+        }
+      }
+    ],
+    "swx3BggyZBAClV9IaXoi": [
+      {
+        "id": "QXBDxIhOtjdqup2KeDmY",
+        "fields": {
+          "image": [
+            "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+            "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp",
+            "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/3.webp"
+          ],
+          "price": 89.99,
+          "id": "QXBDxIhOtjdqup2KeDmY",
+          "description": "Retro-inspired sneakers designed for comfortable everyday wear, with a sporty silhouette and versatile casual styling.",
+          "isTrending": true,
+          "name": "Puma Future Rider Trainers"
+        }
+      },
+      {
+        "id": "t0BGVrkJbYw6m3L0y7r3",
+        "fields": {
+          "isTrending": false,
+          "name": "Sports Sneakers Off White Red",
+          "image": [
+            "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+            "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
+            "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/3.webp"
+          ],
+          "id": "t0BGVrkJbYw6m3L0y7r3",
+          "price": 109.99,
+          "description": "Comfortable off-white and red sneakers with a modern casual design suitable for daily activities."
+        }
+      }
+    ]
+  },
+  "sales": [
+    {
+      "id": "dySzPxvt0RHdAg1ddZVe",
+      "fields": {
+        "id": "dySzPxvt0RHdAg1ddZVe",
+        "image": "https://jyomsmpghllqjhibbrmx.supabase.co/storage/v1/object/public/profile-image/uploads/New%20Green%20Sneaker%20Collection.png"
+      }
+    }
+  ]
+}

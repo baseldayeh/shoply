@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "shoply-store-2aef6",
+          "appId": "1:178467748885:android:82e7e88c7ea6d3150fe21c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "shoply-store-2aef6",
+          "configurations": {
+            "android": "1:178467748885:android:82e7e88c7ea6d3150fe21c"
+          }
+        }
+      }
+    }
+  }
+}

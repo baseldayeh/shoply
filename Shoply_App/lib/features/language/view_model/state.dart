@@ -1,0 +1,1 @@
+enum LanguageState { languageInitState, languageChangeState }
